@@ -1,4 +1,4 @@
-i use pyrhon , C# 
+i use pyrhon , C# , kotlin
 
   
 [![Python Badge](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)](https://www.python.org/)
